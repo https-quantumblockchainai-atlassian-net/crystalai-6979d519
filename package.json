@@ -1,0 +1,13 @@
+{
+  "name": "mirrored-request-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fastify": "^2.10.0",
+    "fastify-cors": "3.0.3"
+  },
+  "keywords": [],
+  "description": "/* - return `${req.method} ${req.originalUrl}`"
+}
