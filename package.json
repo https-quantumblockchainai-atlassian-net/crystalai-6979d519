@@ -5,7 +5,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "fastify": "^2.10.0",
+    "fastify": "^4.21.0",
     "fastify-cors": "3.0.3"
   },
   "keywords": [],
